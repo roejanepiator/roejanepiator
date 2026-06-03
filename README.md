@@ -1,18 +1,26 @@
 # Roejane V. Piator | Portfolio
 Second Year BSIT Student | Davao Del Norte State College
+
 Data-Oriented Developer | Focusing on Database Management
+
+**Future Interests & Prospects:**
+Virtual Assistant · Data Entry · Data Analyst · Database Administrator . Web Developer
 
 ---
 
 ## About Me
 
-I am a 2nd year Bachelor of Science in Information Technology student at Davao Del Norte State College,
-with a strong dedication to learning and developing in the endless possibilities technology has to offer.
+I am a 2nd year BSIT student at Davao Del Norte State College with a strong passion
+for technology and a dedication to building meaningful skills in the field.
 
 I am currently building my foundation in Database Management and Web Systems Development,
 with hands-on experience in MySQL. I have worked on creating and querying relational databases,
-writing basic to intermediate SQL queries, and understanding core concepts of database design
-and management through my coursework in Information Management and Advanced Database Structure.
+writing basic to intermediate SQL queries, and understanding core concepts of database design,
+normalization, and optimization through my coursework in Information Management and Advanced Database Structure.
+
+I have also developed skills in Object-Oriented Programming using Java, covering core concepts such as
+classes, inheritance, polymorphism, and encapsulation. Additionally, I have studied Data Structures and
+Algorithms, working with arrays, linked lists, sorting, and searching techniques.
 
 I am still learning the logic behind structuring and analyzing data efficiently, but I am
 actively growing my skills through practice and projects to keep on improving.
@@ -62,22 +70,11 @@ actively growing my skills through practice and projects to keep on improving.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Roejane's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roejanepiator.ph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roejane-piator-522b42413/)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/639810680563)
 
 ---
 
