@@ -1,24 +1,25 @@
-# Hi there, I'm Roejane! 👋
-
-<div align="center">
-
-### 🎓 2nd Year BSIT Student | Aspiring Full-Stack Developer
-
-</div>
+# Roejane V. Piator | Portfolio
+Second Year BSIT Student | Davao Del Norte State College
+Data-Oriented Developer | Focusing on Database Management
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🏫 Currently taking **BS Information Technology** (2nd Year)
-- 🌱 Deepening my skills in **Laravel**, **DSA**, and **Advanced Database**
-- 💡 Passionate about data, databases, and building data-driven systems
-- 🎯 Goal: Become a **Data Analyst / Database Developer**
-- 📍 Philippines
+I am a 2nd year Bachelor of Science in Information Technology student at Davao Del Norte State College,
+with a strong dedication to learning and developing in the endless possibilities technology has to offer.
+
+I am currently building my foundation in Database Management and Web Systems Development,
+with hands-on experience in MySQL. I have worked on creating and querying relational databases,
+writing basic to intermediate SQL queries, and understanding core concepts of database design
+and management through my coursework in Information Management and Advanced Database Structure.
+
+I am still learning the logic behind structuring and analyzing data efficiently, but I am
+actively growing my skills through practice and projects to keep on improving.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**
 
@@ -32,19 +33,18 @@
 **Framework & Tools:**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Currently Exploring:**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-## 📚 Courses & Competencies
+## Courses & Competencies
 
 | Subject | Skills Gained |
 |---|---|
@@ -56,15 +56,25 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-> 🔨 Currently building projects — check back soon!
-
-_More projects will be pinned here as I complete them._
+> Currently building projects — check back soon!
 
 ---
 
-## 📬 Connect With Me
+## GitHub Stats
+
+<div align="center">
+
+![Roejane's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roejanepiator.ph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roejane-piator-522b42413/)
