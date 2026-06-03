@@ -72,7 +72,7 @@ actively growing my skills through practice and projects to keep on improving.
 
 ## Connect With Me
 
-🌐 Portfolio: [roejanepiator.github.io](https://roejanepiator.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://roejanepiator.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roejanepiator.ph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roejane-piator-522b42413/)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/639810680563)
