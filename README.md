@@ -72,5 +72,5 @@ _More projects will be pinned here as I complete them._
 ---
 
 <div align="center">
-  <i>"Every expert was once a beginner. Keep coding, keep growing. 🌱"</i>
+  <i>“The journey of a thousand miles begins with one step.” - Lao Tzu</i>
 </div>
